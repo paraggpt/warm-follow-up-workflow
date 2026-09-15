@@ -1,20 +1,17 @@
 # Human-in-the-Loop Warm Follow-Up Workflow
 
-A lightweight workflow for turning event connections into relevant,
-manually reviewed follow-up messages.
+A lightweight workflow for turning event connections into relevant, manually reviewed follow-up messages.
 
 ## Why this exists
 
-After events, I often returned with 80–100 new connections but followed
-up with only a small number. The repetitive work was easy to postpone:
+After events, I often returned with 80–100 new connections but followed up with only a small number. The repetitive work was easy to postpone:
 
 - Deciding who was worth contacting
 - Reviewing profile context
 - Writing a relevant first message
 - Keeping track of follow-up status
 
-This project focuses on removing that repetitive work without automating
-the final decision or message sending.
+This project focuses on removing that repetitive work without automating the final decision or message sending.
 
 ## Workflow
 
@@ -55,9 +52,7 @@ Input:
 
 Draft:
 
-> Hi Aarav — enjoyed our conversation at the startup meetup about customer
-> onboarding. Your point about reducing manual setup stood out to me. I’d
-> be interested to hear how Example Labs is approaching that now.
+> Hi Aarav, enjoyed our conversation at the startup meetup about customer onboarding. Your point about reducing manual setup stood out to me. I’d be interested to hear how Example Labs is approaching that now.
 
 The message must be reviewed and edited before sending.
 
@@ -79,4 +74,12 @@ The message must be reviewed and edited before sending.
 
 ## License
 
-[Choose and add an appropriate license.]
+MIT License
+
+Copyright (c) 2026
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
