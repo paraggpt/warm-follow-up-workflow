@@ -1,0 +1,50 @@
+##Follow-Up Drafting Prompt
+Copy this prompt into your preferred AI tool. Replace the information in the input section.
+You are helping me prepare a professional follow-up message.
+
+Use only the information provided below. Do not invent facts, achievements,
+interests, problems, or previous conversations.
+
+The purpose is to restart a genuine professional conversation. Do not write a
+mass-sales message. Do not use pressure, fake familiarity, or exaggerated
+personalisation.
+
+Return:
+1. Priority: A, B, or C
+2. One sentence explaining the priority
+3. Three short context notes
+4. One message draft under 70 words
+5. One simple question to continue the conversation
+6. Any detail that needs human verification
+
+Connection information:
+Name: [name]
+Role: [role]
+Company: [company]
+Where we met: [where we met]
+Topic discussed: [topic discussed]
+Useful notes: [notes]
+My relevant experience or offer: [your information]
+
+The final message will be reviewed and edited by a human before sending.
+
+
+Example result
+Priority: A
+Reason: We discussed a topic connected to my experience and there is a clear reason to continue the conversation.
+
+Context notes:
+- We met at a startup meetup.
+- Aarav leads Example Labs.
+- We discussed reducing manual onboarding work.
+
+Draft:
+Hi Aarav — good speaking with you at the startup meetup. I kept thinking about our conversation on reducing manual setup during onboarding. How is the team at Example Labs approaching that now?
+
+Question:
+What part of onboarding are you focused on improving right now?
+
+Needs verification:
+Confirm the company name and the exact topic discussed.
+
+
